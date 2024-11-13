@@ -25,13 +25,16 @@ Users should be able to:
 ### Screenshot
 
 ![](./images/Screenshot.png)
+
+***
+
 ![](./images/Mobile-screenshot.png)
 
 
 ### Links
 
-- Solution URL: [Solution]()
-- Live Site URL: [Live Server]()
+- Solution URL: [Solution](https://github.com/Tori-Bemide/clipboard-landing-page)
+- Live Site URL: [Live Server](https://tori-bemide.github.io/clipboard-landing-page/)
 
 ## My process
 
